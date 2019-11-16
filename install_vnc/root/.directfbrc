@@ -1,0 +1,14 @@
+system=fbdev
+mode=1280x1024
+autoflip-window
+desktop-buffer-mode=auto
+no-vt-switching
+no-graphics-vt
+no-deinit-check
+no-motion-compression
+no-translucent-windows
+memcpy=arm
+depth=16
+dma
+hardware
+cursor
